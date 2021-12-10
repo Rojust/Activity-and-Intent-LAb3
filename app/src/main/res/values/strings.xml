@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity ad Intents Lab3</string>
+    <string name="button_main">SEND</string>
+</resources>
